@@ -24,7 +24,7 @@ Console 창에서 `ncurses` (PDCurses) 라이브러리와 Windows API를 사용�
 *   **Libraries**:
     *   `windows.h`: 윈도우 콘솔 제어 및 시스템 함수 사용
     *   `time.h`: 난수 생성 및 시간 측정
-    *   `cursor.h` / `curses.h`: 콘솔 UI 및 커서 제어 (PDCurses 활용 추정)
+    *   `cursor.h` / `curses.h`: 콘솔 UI 및 커서 제어
 
 ## 🚀 실행 방법 (How to Run)
 
